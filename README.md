@@ -1,10 +1,12 @@
 # gofinances-frontend
 
 Simple finances management application.
+User can import a transactions file in csv formmat and see all transactions and balance.
+
 
 ## Main page layout
-![image](https://user-images.githubusercontent.com/20348582/92126405-22233500-edce-11ea-9eb5-1c1dbcad86ab.png)
+![image](https://user-images.githubusercontent.com/20348582/92126755-8e9e3400-edce-11ea-8e73-6b5e44290777.png)
 
 
 ## Uploaded page layout
-![image](https://user-images.githubusercontent.com/20348582/92126460-35360500-edce-11ea-9bf6-0c9aaf495e1e.png)
+![image](https://user-images.githubusercontent.com/20348582/92126776-95c54200-edce-11ea-82f1-e1ea380afd73.png)
